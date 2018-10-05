@@ -60,5 +60,5 @@ The plugin will suspend execution of Adobe Flash after the breakpoint hit and wi
 </div>
 
 # Acknowledgements
-[RABCDAsm](https://github.com/CyberShadow/RABCDAsm)
-[JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler/)
+- [RABCDAsm](https://github.com/CyberShadow/RABCDAsm)
+- [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler/)
