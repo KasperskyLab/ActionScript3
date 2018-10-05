@@ -25,10 +25,14 @@ Copy files into the IDA Pro directory:
 
 Drag and drop the SWF file to IDA Pro and select the Shockwave Flash loader.
 
+<div align="center">
+    <img src ="/imgs/img1.png"/>
+</div>
+
 Use 'File' -> 'Produce file' -> 'Create MAP file...' to generate a map file for use with KLFDB.
 
 <div align="center">
-    <img src ="/imgs/img1.png"/>
+    <img src ="/imgs/img2.png"/>
 </div>
 
 KLFDB is written to work with 32-bit versions of Stand Alone Flash and with Flash for Browsers (Internet Explorer is currently supported). 
@@ -36,10 +40,6 @@ KLFDB is written to work with 32-bit versions of Stand Alone Flash and with Flas
 To debug the SWF file with Internet Explorer, load the Adobe Flash module (e.g. c:\Windows\System32\Macromed\Flash\Flash32_*_*_*_*.ocx) into IDA Pro.
 
 Use 'Edit' -> 'Klfdb' -> 'Load new map file' to load the generated map file.
-
-<div align="center">
-    <img src ="/imgs/img2.png"/>
-</div>
 
 From this point, it is possible to use 'Edit' -> 'Klfdb' -> 'Set breakpoints on ...' to set breakpoints on methods.
 
